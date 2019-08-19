@@ -17,3 +17,5 @@ the creation of the Client class would throw errors since the port number wouldn
 is making a for loop a foreach loop. Reasoning, foreach loops are stupid. **NEW** In the IPTest class, the suppressed
 warning for the unused variables is warranted because the variables are used, they're just used to call things, so the class
 doesn't count them as being used.
+
+As of now, the program is currently not working after realizing that we would have to rebuild the entirety of it to make it compatible with Screen Builder. It was originally built with hard-coded windows, but hasx since transitioned to Screen Builder as per request of the class assignment.
